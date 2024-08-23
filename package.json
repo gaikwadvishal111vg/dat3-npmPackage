@@ -1,0 +1,24 @@
+{
+  "name": "geekster-assignment",
+  "version": "1.0.0",
+  "description": "The updateDailyNews function is designed to fetch and display the latest news headlines and descriptions from a news API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install axios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaikwadvishal111vg"
+  },
+  "keywords": [
+    "news",
+   "events",
+"daily",
+"update",
+"api",
+"headlines",
+"articles"
+  ],
+  "author": "gaikwadvishal",
+  "license": "ISC"
+}
